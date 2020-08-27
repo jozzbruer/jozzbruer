@@ -3,7 +3,7 @@
 <!--
 **the-german/the-german** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Joz-Bruer Quince, I'm a Software Devleper(Full stack)
+My name is Joz-Bruer Quince, I'm a Software Developer(Full stack)
 
 ---
 
