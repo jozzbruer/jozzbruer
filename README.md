@@ -18,5 +18,5 @@ My name is Joz-Bruer Quince, I'm a Software Developer(Full stack)
 - ⚡ Fun fact: ...
 
 
-![Joz-Bruer's stats](https://github-readme-stats.vercel.app/api?username=the-german&show_icons=true&theme=dark)
-![Joz-Bruer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-german&theme=dark&layout=compact) 
+![Joz-Bruer's stats](https://github-readme-stats.vercel.app/api?username=jozzbruer&show_icons=true&theme=dark)
+![Joz-Bruer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozzbruer&theme=dark&layout=compact) 
