@@ -21,3 +21,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
  -->
+
+ 
+![Visitor Count](https://profile-counter.glitch.me/your_username/count.svg)
+
+Thanks for visiting! Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or would like to collaborate on a project.
